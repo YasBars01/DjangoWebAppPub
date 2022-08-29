@@ -1,6 +1,7 @@
 # DjangoWebAppPub
 
-Created using Corey Schafer's Tutorial
+Created using Corey Schafer's Tutorial:
+
 https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
 
 ## Setup
@@ -12,7 +13,7 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 
-##If you want to start from scratch
+## If you want to start from scratch
 1. delete db.sqlite3
 2. delete media > profile_pics
 3. delete blog > migrations > 0001_initial.py
